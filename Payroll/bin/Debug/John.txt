@@ -1,0 +1,11 @@
+PAYSLIP FOR SEP 2020
+====================
+Name of Staff: John
+Hours Worked: 9
+
+Basic Pay: RM270.00
+Overtime: RM0.00
+
+====================
+Total Pay: RM270.00
+====================

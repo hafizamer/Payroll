@@ -1,0 +1,11 @@
+PAYSLIP FOR SEP 2020
+====================
+Name of Staff: Carol
+Hours Worked: 3
+
+Basic Pay: RM90.00
+Overtime: RM0.00
+
+====================
+Total Pay: RM90.00
+====================

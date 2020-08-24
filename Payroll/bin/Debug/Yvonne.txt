@@ -1,0 +1,11 @@
+PAYSLIP FOR SEP 2020
+====================
+Name of Staff: Yvonne
+Hours Worked: 7
+
+Basic Pay: RM350.00
+Allowance: RM1,000.00
+
+====================
+Total Pay: RM350.00
+====================

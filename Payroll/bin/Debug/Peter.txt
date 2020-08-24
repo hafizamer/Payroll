@@ -1,0 +1,11 @@
+PAYSLIP FOR SEP 2020
+====================
+Name of Staff: Peter
+Hours Worked: 4
+
+Basic Pay: RM200.00
+Allowance: RM1,000.00
+
+====================
+Total Pay: RM200.00
+====================
